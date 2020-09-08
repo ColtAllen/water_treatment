@@ -4,7 +4,7 @@ Welcome to my data science project portfolio! This is an ongoing WIP created 2-S
 
 <!-- Icons -->
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://raw.githubusercontent.com/Colt45/portfolio/master/images/linkedin-icon.png (LinkedIn icon without padding)
 
 <!-- Links -->
 
